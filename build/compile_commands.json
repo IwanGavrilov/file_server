@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build",
+  "command": "/usr/bin/c++  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build -g -std=c++17 -o CMakeFiles/database.dir/database.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/database.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/database.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build",
+  "command": "/usr/bin/gcc-12  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build -g -o CMakeFiles/database.dir/sqlite/sqlite3.c.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/sqlite/sqlite3.c",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/sqlite/sqlite3.c"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -o CMakeFiles/server.dir/server_async.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/server_async.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/server_async.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles/server_cli.dir/main.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/main.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/main.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build",
+  "command": "/usr/bin/c++  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/build -g -std=c++17 -o CMakeFiles/lib.dir/lib.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/lib.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/file_server/Server/lib.cpp"
+}
+]
