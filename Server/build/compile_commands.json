@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/server.dir/server_async.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/server_async.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/server_async.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build",
+  "command": "/usr/bin/g++  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build -g -std=c++17 -o CMakeFiles/database.dir/database.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/database.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/database.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build",
+  "command": "/usr/bin/gcc  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build -g -o CMakeFiles/database.dir/sqlite/sqlite3.c.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/sqlite/sqlite3.c",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/sqlite/sqlite3.c"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles/server_cli.dir/main.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/main.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/main.cpp"
+},
+{
+  "directory": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build",
+  "command": "/usr/bin/g++  -I/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build -g -std=c++17 -o CMakeFiles/lib.dir/lib.cpp.o -c /media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/lib.cpp",
+  "file": "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/lib.cpp"
+}
+]

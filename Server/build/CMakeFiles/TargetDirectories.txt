@@ -1,0 +1,12 @@
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/server_cli.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/lib.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/server.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/database.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/package.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/package_source.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/edit_cache.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/rebuild_cache.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/list_install_components.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/install.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/install/local.dir
+/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/Server/build/CMakeFiles/install/strip.dir
